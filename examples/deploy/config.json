@@ -1,0 +1,14 @@
+{
+  "region": "us-central",
+  "type": "g6-nanode-1",
+  "label": "test",
+  "root_pass": "someSecurePassword",
+  "stackscript_id": "123456",
+  "stackscript_data": {
+    "username": "demonstration"
+  },
+  "image": "linode/debian11",
+  "tags": [
+    "demonstration"
+  ]
+}
